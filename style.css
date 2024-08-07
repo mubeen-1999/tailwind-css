@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+.btn{
+    @apply bg-yellow-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full; 
+}
+
+.text-vic{
+
+    @apply text-yellow-400 bg-green-400
+}
+@tailwind utilities;
