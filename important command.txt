@@ -1,0 +1,1 @@
+npx tailwindcss init filename --full ----> this is the command to generate conf file
